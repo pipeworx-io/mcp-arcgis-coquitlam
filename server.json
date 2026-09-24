@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-coquitlam",
   "title": "Arcgis Coquitlam",
   "description": "City of Coquitlam GIS — Coquitlam, BC (Canada) open geospatial data (ArcGIS).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-coquitlam",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-coquitlam",
